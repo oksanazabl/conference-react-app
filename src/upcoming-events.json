@@ -1,0 +1,82 @@
+[
+  {
+    "name": "A smagglers tale",
+    "location": "Altazer, Sindria",
+    "speaker": "Feathers Dbstract",
+    "type": "free",
+    "time": {
+      "start": "2202-02-04T14:30:00",
+      "end": "2202-02-04T16:30:00"
+    }
+  },
+  {
+    "name": "Dealing with the decat",
+    "location": "Megas, Moon",
+    "speaker": "Artemis Frog",
+    "type": "vip",
+    "time": {
+      "start": "2202-02-05T11:30:00",
+      "end": "2202-02-01T12:30:00"
+    }
+  },
+  {
+    "name": "Beyong the core words",
+    "location": "Barad sector, Ashra",
+    "speaker": "Mike Wazowsky",
+    "type": "paid",
+    "time": {
+      "start": "2202-06-12T08:00:00",
+      "end": "2202-06-12T12:30:00"
+    }
+  },
+  {
+    "name": "Flash score",
+    "location": "Baltass, Nikongo",
+    "speaker": "Maxerys Bree",
+    "type": "vip",
+    "time": {
+      "start": "2202-05-18T11:20:00",
+      "end": "2202-05-18T14:00:00"
+    }
+  },
+  {
+    "name": "Meet with menthor",
+    "location": "Ozirius, Quadra",
+    "speaker": "dc. Pet",
+    "type": "vip",
+    "time": {
+      "start": "2202-12-06T09:30:00",
+      "end": "2202-12-06T11:45:00"
+    }
+  },
+  {
+    "name": "Deep space horrors",
+    "location": "Fototnn, Land",
+    "speaker": "Meggy Horr",
+    "type": "free",
+    "time": {
+      "start": "2202-05-07T10:30:00",
+      "end": "2202-05-07T11:45:00"
+    }
+  },
+  {
+    "name": "Dealing with the Diktat",
+    "location": "Mars, SunSpace",
+    "speaker": "Beeny Blue",
+    "type": "paid",
+    "time": {
+      "start": "2202-11-08T15:30:00",
+      "end": "2202-11-08T17:45:00"
+    }
+  },
+    {
+    "name": "Protecting from...",
+    "location": "Tirius, Kolo",
+    "speaker": "Benjamine Sparks",
+    "type": "paid",
+    "time": {
+      "start": "2202-01-08T10:30:00",
+      "end": "2202-01-08T12:00:00"
+    }
+  }
+]
